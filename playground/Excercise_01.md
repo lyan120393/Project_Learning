@@ -53,6 +53,7 @@ Code:
 * Transfer numbers into strings
 * 不使用库函数，将数字转换为字符串
 Code:
+			
 			void int2str(int n, char *str) {
 				// ...
 			}
